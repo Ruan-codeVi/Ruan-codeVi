@@ -12,13 +12,11 @@
 
 
  ##  I’m currently learning 📕 ...
-> -  Html <br>
- ![Screen](/assets/html-5-48.png)  
-> - Css3 <br>
- ![Screen](/assets/css3-48.png) 
+> -  Html <br> ![Screen](/assets/html-5-48.png)  
+> - Css3 <br> ![Screen](/assets/css3-48.png) 
 > - Javascript <br> ![Screen](/assets/javascript.png) 
-> - bootstrap 5 </div>
-> - Jquery </div>
+> - bootstrap 5 <br> ![Screen](/assets/bootstrap.png) 
+> - Jquery <br> ![Screen](/assets/jquery.png) 
 > - Data structure/algorithms  </div>
 
 ##  Next technologies to be studied
