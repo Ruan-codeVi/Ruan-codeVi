@@ -14,7 +14,7 @@
  ##  I’m currently learning 📕 ...
 > -  Html ![Screen](/assets/html-5-48.png) 
 > - Css3 ![Screen](/assets/css3-48.png) 
-> - Javascript </div>
+> - Javascript ![Screen](/assets/javascript.png) 
 > - bootstrap 5 </div>
 > - Jquery </div>
 > - Data structure/algorithms  </div>
