@@ -36,10 +36,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruan-codeVi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-codeVi&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
 
+ ## How to reach me: ...
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan19vitor@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-vitor-836b8198/)
 
- 📫 How to reach me: ...
-
+</div>
 
 <div align="center">
  
