@@ -47,6 +47,7 @@
 
 <div align="center">
  
-![ViewCount](https://views.whatilearened.today/views/github/Ruan-codeVi/Ruan-codeVi.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
+![ViewCount](https://views.whatilearened.today/views/github/Ruan-codeVi/Ruan-codeVi.svg) <a href = "https://www.linkedin.com/in/juan-vitor/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
