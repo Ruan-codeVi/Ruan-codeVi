@@ -1,4 +1,4 @@
-## <div align="center"> Hi there, 
+## <div align="center"> Hi 
 <p align="center">
 <img  src="/assets/codTheFut.gif">
 </p>
