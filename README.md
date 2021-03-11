@@ -18,6 +18,7 @@
 > - bootstrap 5 <br> ![Screen](/assets/bootstrap.png) 
 > - Jquery <br> ![Screen](/assets/jquery.png) 
 > - Data structure/algorithms <br> ![Screen](/assets/flow-48.png) 
+> ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <!-- Adicionar os outros shield's apagar esses cinoes -->
 
 ##  Next technologies to be studied
 >  - Node.js
