@@ -1,15 +1,13 @@
 ### Hi there, 
+<p align="center">
+<img  src="/assets/codTheFut.gif">
+</p>
+
 
 ##  I'm Ruan vitor. 👨 👋
 > - I  live in Brazil 🇧🇷, southeast region, São Paulo.
 > - I have been studying programming and technology, mainly on my own: courses, bootcamps and books.
 > - I have a technical level graduation. 📝 </br>
-
-
-
-
-
-
 
 
 
