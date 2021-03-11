@@ -4,7 +4,9 @@
 </p>
 </div>
 
-## <div align="center"> I'm Ruan vitor. 👨 👋</div>
+<div align="center"> 
+
+## I'm Ruan vitor. 👨 👋</div>
 >  <div align="center"> I  live in Brazil 🇧🇷, southeast region, São Paulo. </div>
 >  <div align="center"> I have been studying programming and technology, mainly on my own: courses, bootcamps and books.</div>
 > <div align="center"> I have a technical level graduation. 📝</div> </br> 
@@ -26,6 +28,7 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 </div>
+
 ##  My stats  <br>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruan-codeVi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
