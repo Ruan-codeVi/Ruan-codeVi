@@ -11,13 +11,13 @@
 
 
 
- ## I’m currently learning 📕 ...
-> - Html
-> - Css3
-> - Javascript
-> - bootstrap 5
-> - Jquery
-> - Data structure/algorithms
+ ##  I’m currently learning 📕 ...
+> -  Html ![Screen](/assets/html-5-48.png) 
+> - Css3 
+> - Javascript </div>
+> - bootstrap 5 </div>
+> - Jquery </div>
+> - Data structure/algorithms  </div>
 
 ##  Next technologies to be studied
   - Node.js
