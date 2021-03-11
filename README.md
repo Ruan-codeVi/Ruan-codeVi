@@ -1,9 +1,9 @@
-## <div align="center"> Hi 
+<!---## <div align="center"> Hi 
 <p align="center">
 <img  src="/assets/codTheFut.gif">
 </p>
 </div>
-
+-->
 <div align="center"> 
 
 ## I'm Ruan vitor. </div>
