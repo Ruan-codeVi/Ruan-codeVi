@@ -5,8 +5,8 @@
 > - I have been studying programming and technology, mainly on my own: courses, bootcamps and books.
 > - I have a technical level graduation. 📝 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruan-codeVi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-codeVi&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
@@ -25,6 +25,11 @@
   - Node.js
   - React
   - React Native
+
+## My stats
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruan-codeVi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-codeVi&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  📫 How to reach me: ...
 
