@@ -20,9 +20,9 @@
 > - Data structure/algorithms <br> ![Screen](/assets/flow-48.png) 
 
 ##  Next technologies to be studied
-  - Node.js
-  - React
-  - React Native
+>  - Node.js
+>  - React
+>  - React Native
 
 ##  My stats  <br>
  
