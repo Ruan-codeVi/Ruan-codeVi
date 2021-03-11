@@ -13,7 +13,7 @@
 
  ##  I’m currently learning 📕 ...
 > -  Html ![Screen](/assets/html-5-48.png) 
-> - Css3 
+> - Css3 ![Screen](/assets/css3-48.png) 
 > - Javascript </div>
 > - bootstrap 5 </div>
 > - Jquery </div>
