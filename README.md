@@ -17,7 +17,7 @@
 > - Javascript <br> ![Screen](/assets/javascript.png) 
 > - bootstrap 5 <br> ![Screen](/assets/bootstrap.png) 
 > - Jquery <br> ![Screen](/assets/jquery.png) 
-> - Data structure/algorithms  </div>
+> - Data structure/algorithms <br> ![Screen](/assets/flow-48.png) 
 
 ##  Next technologies to be studied
   - Node.js
