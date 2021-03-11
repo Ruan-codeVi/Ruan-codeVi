@@ -40,7 +40,8 @@
 
  ## How to reach me:
 <img src = "https://img.shields.io/badge/juan19vitor@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-
+<a href = "https://www.linkedin.com/in/juan-vitor/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 <br>
 
