@@ -33,3 +33,8 @@
  📫 How to reach me: ...
 
 
+<div align="center">
+ 
+![ViewCount](https://views.whatilearened.today/views/github/Ruan-codeVi/Ruan-codeVi.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
+
+</div>
