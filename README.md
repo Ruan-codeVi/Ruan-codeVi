@@ -21,13 +21,7 @@
 
 <div align="center">
  
-##  Next technologies to be studied
 
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-
-</div>
 
 
  
