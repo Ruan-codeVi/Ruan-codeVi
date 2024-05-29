@@ -11,7 +11,7 @@
 >  <div align="center"> Tenho estudado programação e tecnologia, principalmente por conta própria: cursos, bootcamps, livros e youtube.</div>
 >  <div align="center"> I have been studying programming and technology, mainly on my own: courses, bootcamps, books and youtube.</div>
 > <div align="center"> Atualmente cursando analise e desenvolvimento de sistemas na Universade São Judas Tadeu </div> </br> 
-<div align="center"> Currently studying systems analysis and development at Universade São Judas Tadeu </div> </br> 
+> <div align="center"> Currently studying systems analysis and development at Universade São Judas Tadeu </div> </br> 
 > <div align="center"> Possuo formação de nível técnico.</div> </br>
 > <div align="center"> I have a technical level graduation. </div> </br> 
 
