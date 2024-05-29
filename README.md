@@ -6,7 +6,7 @@
 -->
 <div align="center"> 
 
-## I'm Ruan vitor. </div>
+## I'm Juan vitor. </div>
 >  <div align="center"> I  live in Brazil 🇧🇷, southeast region, São Paulo, Fan of technology, bodybuilding and American football </div>
 >  <div align="center"> Tenho estudado programação e tecnologia, principalmente por conta própria: cursos, bootcamps, livros e youtube.</div>
 >  <div align="center"> I have been studying programming and technology, mainly on my own: courses, bootcamps, books and youtube.</div></br>
