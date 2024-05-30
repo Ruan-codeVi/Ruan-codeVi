@@ -6,9 +6,10 @@
 -->
 <div align="center"> 
 
+
 ## I'm Juan vitor. </div>
->  <div align="center"> I  live in Brazil 🇧🇷, southeast region, São Paulo, Fan of technology, bodybuilding and American football </div>
->  <div align="center"> Tenho estudado programação e tecnologia, principalmente por conta própria: cursos, bootcamps, livros e youtube.</div>
+>  <div align="center"> <p> I  live in Brazil 🇧🇷, southeast region, São Paulo, Fan of technology, bodybuilding and American football </p> </div>
+>  <div align="center"> <p> Tenho estudado programação e tecnologia, principalmente por conta própria: cursos, bootcamps, livros e youtube.</p></div>
 >  <div align="center"> I have been studying programming and technology, mainly on my own: courses, bootcamps, books and youtube.</div></br>
 > <div align="center"> Atualmente cursando analise e desenvolvimento de sistemas na Universade São Judas Tadeu </div> 
 > <div align="center"> Currently studying systems analysis and development at Universade São Judas Tadeu </div> </br> 
